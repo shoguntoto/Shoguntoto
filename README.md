@@ -53,7 +53,8 @@
   <hr>
      <h3> Code editor </h3> 
      <img align="center" alt="VSCode" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-     <img align="center" alt="Web Storm" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png">  
+     <img align="center" alt="Web Storm" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png">
+        <img align="center" alt="Sublime Text" height="55" width="55" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png">
    <hr>
      <h3> Utils </h3> 
      <img align="center" alt="Npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
