@@ -11,7 +11,7 @@
 </p>
 
 - 👨‍💻 Édudiant au collège
-- 📝 Commence a apprendre réact.js
+- 📝 En formation de développeur fullstack
  
  <p align="center"></p>
 <div align="center">
