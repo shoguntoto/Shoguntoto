@@ -3,14 +3,14 @@
 <!-- https://devicon.dev/ -->
 
 <h1 align="center">👋 Hey je suis shoguntoto</h1>
-<h3 align="center">Un jeune développer de 14 ans orienté front-end</h3>
+<h3 align="center">Un jeune développer de 15 ans orienté front-end</h3>
 <br>
 
 <p align="center">
     <img align="center" src="https://discord.c99.nl/widget/theme-3/418384254712676354.png"/>
 </p>
 
-- 👨‍💻 Édudiant au collège
+- 👨‍💻 Édudiant au lycée
 - 📝 En formation de développeur fullstack
  
  <p align="center"></p>
@@ -19,18 +19,7 @@
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=shoguntoto&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoguntoto&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
     </a>
-</div>
-  <hr>
-  
-  <h3> Social </h3>
-  <div>    
-    <div>
-      <p>Labs & Code</p>  
-      <a href="https://discord.gg/ZTD2gntqx2" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-      </a> 
-    </div>
-    <div>                                                                                
+</div>                                                                               
   <hr>  
     <h3> Langages </h3>
     <img align="center" alt="HTML" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -62,9 +51,3 @@
      <img align="center" alt="Github" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      <img align="center" alt="NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
      <img align="center" alt="Figma" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
-  <hr>
-    <h3>Person who read this repository</h3>
-    <a href="https://discords.com/bio/p/" target="_blank">
-      <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shoguntoto&repo=shoguntoto&countColorcountColor&countColor=%FFFFFF"/>
-    </a>
